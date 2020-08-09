@@ -1,1 +1,2 @@
-mathAI
+## Linear Algebra by using sympy
+
