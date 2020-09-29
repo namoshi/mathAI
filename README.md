@@ -1,14 +1,16 @@
 ## Jupyter Notebooks for mathAI
 
-AIのための数学超入門という講義で利用予定のJupyter Notebookです．
+「AIのための数学超入門」という講義で利用予定のJupyter Notebookです．
 
-まだ，未完成で，現在，更新中です．
+### ノートブック一覧
 
++ [linalg.ipynb](https://github.com/namoshi/mathAI/blob/master/linalg.ipynb) --- Pythonによる線形代数（ベクトル・行列の計算，連立1次方程式の解法，簡約化，行列式，逆行列，トレース，ランク，固有値と固有ベクトル，スペクトル分解，特異値分解等）
 
-	+ linalg.ipynb --- Pythonによる線形代数（ベクトル・行列の計算，連立1次方程式の解法，簡約化，行列式，逆行列，トレース，ランク，固有値と固有ベクトル，スペクトル分解，特異値分解等）
-    
-    + augograd.ipynb  --- Pytorchを利用した自動微分
++ [augograd.ipynb](https://github.com/namoshi/mathAI/blob/master/autograd.ipynb)  --- Pytorchを利用した自動微分
 
++ [convolution.ipynb](https://github.com/namoshi/mathAI/blob/master/convolution.ipynb)  ---  1次元のコンボリューションの例
+
++ [pca_face_reconstruction.ipynb](https://github.com/namoshi/mathAI/blob/master/pca_face_reconstruction.ipynb)  ---  主成分分析（PCA）による顔画像の再構成
 
 
 ---
